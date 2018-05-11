@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AnnoyingAds</string>
+    <string-array name="adPartners">
+        <item>One Mobile</item>
+        <item>MoPub</item>
+    </string-array>
 </resources>
