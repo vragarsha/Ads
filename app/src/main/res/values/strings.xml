@@ -4,4 +4,9 @@
         <item>One Mobile</item>
         <item>MoPub</item>
     </string-array>
+    <string-array name="oathAdFormats">
+        <item>Inline</item>
+        <item>Intersitial</item>
+        <item>SuperAuction</item>
+    </string-array>
 </resources>
